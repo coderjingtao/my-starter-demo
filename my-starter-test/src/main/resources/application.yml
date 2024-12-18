@@ -1,0 +1,5 @@
+my:
+  service:
+    message: custom message
+  utils:
+    upper-case: false
